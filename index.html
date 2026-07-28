@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Internship Tracker — Business / Marketing / Management</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #f7f7f8;
+    --card: #ffffff;
+    --text: #1a1a1a;
+    --muted: #666;
+    --border: #e3e3e6;
+    --accent: #2455e6;
+    --new: #1a8a4a;
+    --new-bg: #e7f7ee;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16171a;
+      --card: #212227;
+      --text: #f0f0f0;
+      --muted: #9a9a9a;
+      --border: #33343a;
+      --accent: #7da2ff;
+      --new: #4fd382;
+      --new-bg: #123321;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+  header {
+    padding: 2rem 1.5rem 1rem;
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  h1 { font-size: 1.4rem; margin: 0 0 0.25rem; }
+  .sub { color: var(--muted); font-size: 0.9rem; }
+  .controls {
+    max-width: 760px;
+    margin: 0 auto 1rem;
+    padding: 0 1.5rem;
+    display: flex;
+    gap: 0.5rem;
+  }
+  input[type="search"] {
+    flex: 1;
+    padding: 0.6rem 0.9rem;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--card);
+    color: var(--text);
+    font-size: 0.95rem;
+  }
+  main {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 0 1.5rem 3rem;
+  }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1rem 1.2rem;
+    margin-bottom: 0.75rem;
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+  .card a {
+    color: var(--text);
+    text-decoration: none;
+  }
+  .card a:hover { color: var(--accent); }
+  .title { font-weight: 600; font-size: 1rem; }
+  .meta { color: var(--muted); font-size: 0.85rem; margin-top: 0.25rem; }
+  .badge {
+    background: var(--new-bg);
+    color: var(--new);
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    padding: 0.2rem 0.5rem;
+    border-radius: 999px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .empty, .warn {
+    color: var(--muted);
+    padding: 2rem 0;
+    text-align: center;
+    font-size: 0.9rem;
+  }
+  .warn {
+    text-align: left;
+    color: #b45309;
+    background: #fff7ed;
+    border: 1px solid #fdba74;
+    border-radius: 8px;
+    padding: 0.75rem 1rem;
+    margin-bottom: 1rem;
+    font-size: 0.85rem;
+  }
+  @media (prefers-color-scheme: dark) {
+    .warn { background: #2a1e0f; border-color: #6b4a1a; color: #f0b95e; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Internship Tracker</h1>
+  <div class="sub">Business, marketing &amp; management internships — auto-checked every 30 minutes. Last updated: <span id="generated-at">—</span></div>
+</header>
+<div class="controls">
+  <input type="search" id="search" placeholder="Filter by company, title, or location…">
+</div>
+<main id="results">
+  <div class="empty">Loading…</div>
+</main>
+
+<script>
+const NEW_WINDOW_HOURS = 48;
+
+function hoursAgo(iso) {
+  return (Date.now() - new Date(iso).getTime()) / (1000 * 60 * 60);
+}
+
+function timeAgo(iso) {
+  const h = hoursAgo(iso);
+  if (h < 1) return "just now";
+  if (h < 24) return `${Math.round(h)}h ago`;
+  return `${Math.round(h / 24)}d ago`;
+}
+
+function render(postings) {
+  const results = document.getElementById("results");
+  if (postings.length === 0) {
+    results.innerHTML = '<div class="empty">No matching internships posted right now. Check back later.</div>';
+    return;
+  }
+  results.innerHTML = postings.map(p => {
+    const isNew = hoursAgo(p.first_seen) <= NEW_WINDOW_HOURS;
+    return `
+      <div class="card" data-search="${(p.company + ' ' + p.title + ' ' + p.location).toLowerCase()}">
+        <a href="${p.url}" target="_blank" rel="noopener noreferrer">
+          <div class="title">${p.title}</div>
+          <div class="meta">${p.company} · ${p.location || "Location not listed"} · found ${timeAgo(p.first_seen)}</div>
+        </a>
+        ${isNew ? '<span class="badge">NEW</span>' : ""}
+      </div>`;
+  }).join("");
+}
+
+let allPostings = [];
+
+document.getElementById("search").addEventListener("input", (e) => {
+  const q = e.target.value.trim().toLowerCase();
+  const filtered = q
+    ? allPostings.filter(p => (p.company + " " + p.title + " " + p.location).toLowerCase().includes(q))
+    : allPostings;
+  render(filtered);
+});
+
+fetch("data.json?_=" + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    allPostings = data.postings || [];
+    document.getElementById("generated-at").textContent = new Date(data.generated_at).toLocaleString();
+    if (data.errors && data.errors.length) {
+      const warn = document.createElement("div");
+      warn.className = "warn";
+      warn.textContent = `${data.errors.length} source(s) failed on the last check: ${data.errors.join("; ")}`;
+      document.getElementById("results").before(warn);
+    }
+    render(allPostings);
+  })
+  .catch(err => {
+    document.getElementById("results").innerHTML =
+      '<div class="empty">Could not load data.json. If you just set this up, run the poller once or wait for the first scheduled run.</div>';
+    console.error(err);
+  });
+</script>
+</body>
+</html>

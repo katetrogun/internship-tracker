@@ -1,0 +1,34 @@
+name: Poll internship boards
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run poller
+        run: python3 scripts/poll.py
+
+      - name: Commit updated data.json
+        run: |
+          git config user.name "internship-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if ! git diff --quiet -- data.json; then
+            git add data.json
+            git commit -m "Update internship postings"
+            git push
+          else
+            echo "No changes to commit."
+          fi
