@@ -1,6 +1,7 @@
 {
-  "generated_at": "2026-07-31T09:34:32.836177+00:00",
+  "generated_at": "2026-07-31T16:20:33.088494+00:00",
   "errors": [
+    "Coursera (coursera): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found"
   ],
   "postings": [
