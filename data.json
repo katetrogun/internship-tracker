@@ -1,7 +1,6 @@
 {
-  "generated_at": "2026-08-04T16:24:14.323976+00:00",
+  "generated_at": "2026-08-04T20:55:50.451723+00:00",
   "errors": [
-    "Mixpanel (mixpanel): The read operation timed out",
     "Netflix (netflix): HTTP Error 404: Not Found"
   ],
   "postings": [
