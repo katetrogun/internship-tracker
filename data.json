@@ -1,7 +1,6 @@
 {
-  "generated_at": "2026-08-09T21:04:23.034421+00:00",
+  "generated_at": "2026-08-09T23:01:34.397420+00:00",
   "errors": [
-    "Udemy (udemy): The read operation timed out",
     "Netflix (netflix): HTTP Error 404: Not Found"
   ],
   "postings": [
