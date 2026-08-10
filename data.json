@@ -1,18 +1,9 @@
 {
-  "generated_at": "2026-08-10T14:35:14.742014+00:00",
+  "generated_at": "2026-08-10T17:40:19.248282+00:00",
   "errors": [
     "Netflix (netflix): HTTP Error 404: Not Found"
   ],
   "postings": [
-    {
-      "id": "greenhouse:earnin:8113206",
-      "title": "Brand Marketing Intern",
-      "location": "Remote, US",
-      "url": "https://job-boards.greenhouse.io/earnin/jobs/8113206",
-      "updated_at": "2026-08-06T19:02:24-04:00",
-      "company": "EarnIn",
-      "first_seen": "2026-08-07T01:44:05.391072+00:00"
-    },
     {
       "id": "greenhouse:databricks:6883068002",
       "title": "Product Management Intern (Summer 2027)",
