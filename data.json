@@ -1,6 +1,9 @@
 {
-  "generated_at": "2026-08-15T15:57:02.466682+00:00",
+  "generated_at": "2026-08-15T16:54:08.427259+00:00",
   "errors": [
+    "Affirm (affirm): <urlopen error [Errno 104] Connection reset by peer>",
+    "Gusto (gusto): <urlopen error [Errno 104] Connection reset by peer>",
+    "Typeform (typeform): <urlopen error [Errno 104] Connection reset by peer>",
     "Netflix (netflix): HTTP Error 404: Not Found"
   ],
   "postings": [
