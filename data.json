@@ -1,6 +1,8 @@
 {
-  "generated_at": "2026-08-16T08:03:02.478406+00:00",
+  "generated_at": "2026-08-16T09:46:27.042607+00:00",
   "errors": [
+    "Figma (figma): The read operation timed out",
+    "Calendly (calendly): The read operation timed out",
     "Netflix (netflix): HTTP Error 404: Not Found"
   ],
   "postings": [
