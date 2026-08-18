@@ -1,6 +1,7 @@
 {
-  "generated_at": "2026-08-18T15:57:11.336025+00:00",
+  "generated_at": "2026-08-18T17:02:15.161317+00:00",
   "errors": [
+    "Klaviyo (klaviyo): The read operation timed out",
     "Netflix (netflix): HTTP Error 404: Not Found"
   ],
   "postings": [
