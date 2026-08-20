@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:57:25.325132+00:00",
+  "generated_at": "2026-08-20T14:09:27.121190+00:00",
   "errors": [
     "Netflix (netflix): HTTP Error 404: Not Found"
   ],
@@ -9,7 +9,7 @@
       "title": "Product Management Intern",
       "location": "New York, New York, USA",
       "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
-      "updated_at": "2026-08-19T16:07:00-04:00",
+      "updated_at": "2026-08-20T09:01:50-04:00",
       "company": "Datadog",
       "first_seen": "2026-08-17T14:56:30.949474+00:00"
     },
