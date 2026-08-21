@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-08-21T17:03:07.298925+00:00",
+  "generated_at": "2026-08-21T19:09:45.901570+00:00",
   "errors": [
-    "Airbnb (airbnb): The read operation timed out",
-    "Netflix (netflix): HTTP Error 404: Not Found"
+    "Flexport (flexport): The read operation timed out",
+    "Netflix (netflix): HTTP Error 404: Not Found",
+    "Wealthfront (wealthfront): The read operation timed out"
   ],
   "postings": [
     {
