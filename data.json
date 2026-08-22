@@ -1,6 +1,8 @@
 {
-  "generated_at": "2026-08-22T11:57:45.906288+00:00",
+  "generated_at": "2026-08-22T13:43:16.721201+00:00",
   "errors": [
+    "MongoDB (mongodb): <urlopen error [Errno 104] Connection reset by peer>",
+    "Marqeta (marqeta): <urlopen error [Errno 104] Connection reset by peer>",
     "Netflix (netflix): HTTP Error 404: Not Found"
   ],
   "postings": [
