@@ -1,6 +1,8 @@
 {
-  "generated_at": "2026-08-24T22:58:02.191961+00:00",
+  "generated_at": "2026-08-24T23:48:13.204075+00:00",
   "errors": [
+    "Affirm (affirm): The read operation timed out",
+    "Toast (toast): The read operation timed out",
     "Netflix (netflix): HTTP Error 404: Not Found"
   ],
   "postings": [
