@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-09-09T00:49:44.937240+00:00",
+  "generated_at": "2026-09-09T05:30:43.715193+00:00",
   "errors": [
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
     "Plaid (plaid): HTTP Error 404: Not Found"
   ],
   "postings": [
+    {
+      "id": "greenhouse:coinbase:8187551",
+      "title": "Sales Intern",
+      "location": "Hybrid - New York, NY",
+      "url": "https://www.coinbase.com/careers/positions/8187551?gh_jid=8187551",
+      "updated_at": "2026-09-08T20:55:07-04:00",
+      "company": "Coinbase",
+      "first_seen": "2026-09-09T05:30:43.715193+00:00"
+    },
     {
       "id": "greenhouse:coinbase:8175453",
       "title": "Tax Operations Intern",
