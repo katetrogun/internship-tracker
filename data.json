@@ -1,6 +1,7 @@
 {
-  "generated_at": "2026-09-10T11:33:49.873904+00:00",
+  "generated_at": "2026-09-10T15:25:59.315525+00:00",
   "errors": [
+    "Roblox (roblox): The read operation timed out",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
     "Plaid (plaid): HTTP Error 404: Not Found"
@@ -56,7 +57,7 @@
       "title": "Product Management Intern",
       "location": "New York, New York, USA",
       "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
-      "updated_at": "2026-09-08T16:47:13-04:00",
+      "updated_at": "2026-09-10T10:53:42-04:00",
       "company": "Datadog",
       "first_seen": "2026-08-17T14:56:30.949474+00:00"
     },
