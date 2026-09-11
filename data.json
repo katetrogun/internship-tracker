@@ -1,6 +1,7 @@
 {
-  "generated_at": "2026-09-10T23:16:04.428443+00:00",
+  "generated_at": "2026-09-11T01:14:35.819765+00:00",
   "errors": [
+    "GitLab (gitlab): The read operation timed out",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
     "Plaid (plaid): HTTP Error 404: Not Found"
