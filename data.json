@@ -1,11 +1,74 @@
 {
-  "generated_at": "2026-09-14T07:59:09.281720+00:00",
+  "generated_at": "2026-09-14T14:46:13.745919+00:00",
   "errors": [
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
     "Plaid (plaid): HTTP Error 404: Not Found"
   ],
   "postings": [
+    {
+      "id": "greenhouse:robinhood:8198198",
+      "title": "Brokerage Operations Intern (Summer 2027)",
+      "location": "Chicago, IL",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8198198?t=gh_src=&gh_jid=8198198",
+      "updated_at": "2026-09-14T08:00:09-04:00",
+      "company": "Robinhood",
+      "first_seen": "2026-09-14T14:46:13.745919+00:00"
+    },
+    {
+      "id": "greenhouse:robinhood:8123238",
+      "title": "Business Analyst Intern (Summer 2027)",
+      "location": "Washington, DC",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8123238?t=gh_src=&gh_jid=8123238",
+      "updated_at": "2026-09-14T08:00:08-04:00",
+      "company": "Robinhood",
+      "first_seen": "2026-09-14T14:46:13.745919+00:00"
+    },
+    {
+      "id": "greenhouse:robinhood:8193484",
+      "title": "Crypto Operations Intern (Summer 2027)",
+      "location": "New York, NY",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8193484?t=gh_src=&gh_jid=8193484",
+      "updated_at": "2026-09-14T08:00:09-04:00",
+      "company": "Robinhood",
+      "first_seen": "2026-09-14T14:46:13.745919+00:00"
+    },
+    {
+      "id": "greenhouse:robinhood:8198241",
+      "title": "Fraud Operations Intern (Summer 2027)",
+      "location": "Denver, CO",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241",
+      "updated_at": "2026-09-14T08:00:09-04:00",
+      "company": "Robinhood",
+      "first_seen": "2026-09-14T14:46:13.745919+00:00"
+    },
+    {
+      "id": "greenhouse:robinhood:8187309",
+      "title": "Futures & Prediction Market Operations Intern (Summer 2027)",
+      "location": "Chicago, IL",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8187309?t=gh_src=&gh_jid=8187309",
+      "updated_at": "2026-09-14T08:00:08-04:00",
+      "company": "Robinhood",
+      "first_seen": "2026-09-14T14:46:13.745919+00:00"
+    },
+    {
+      "id": "greenhouse:robinhood:8192367",
+      "title": "Growth Marketing Intern (Summer 2027)",
+      "location": "Menlo Park, CA",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8192367?t=gh_src=&gh_jid=8192367",
+      "updated_at": "2026-09-14T08:00:09-04:00",
+      "company": "Robinhood",
+      "first_seen": "2026-09-14T14:46:13.745919+00:00"
+    },
+    {
+      "id": "greenhouse:robinhood:8198097",
+      "title": "Vendor Management Intern (Summer 2027)",
+      "location": "New York, NY",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097",
+      "updated_at": "2026-09-14T08:00:08-04:00",
+      "company": "Robinhood",
+      "first_seen": "2026-09-14T14:46:13.745919+00:00"
+    },
     {
       "id": "greenhouse:coinbase:8187551",
       "title": "Sales Intern",
