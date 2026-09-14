@@ -1,11 +1,21 @@
 {
-  "generated_at": "2026-09-14T14:46:13.745919+00:00",
+  "generated_at": "2026-09-14T19:40:18.169519+00:00",
   "errors": [
+    "Zscaler (zscaler): The read operation timed out",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
     "Plaid (plaid): HTTP Error 404: Not Found"
   ],
   "postings": [
+    {
+      "id": "greenhouse:figma:6144755004",
+      "title": "Brand Design Intern (Summer 2027)",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/figma/jobs/6144755004?gh_jid=6144755004",
+      "updated_at": "2026-09-14T13:36:09-04:00",
+      "company": "Figma",
+      "first_seen": "2026-09-14T19:40:18.169519+00:00"
+    },
     {
       "id": "greenhouse:robinhood:8198198",
       "title": "Brokerage Operations Intern (Summer 2027)",
@@ -128,7 +138,7 @@
       "title": "[Summer 2027] Product Management Intern",
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
-      "updated_at": "2026-09-14T02:32:27-04:00",
+      "updated_at": "2026-09-14T14:32:42-04:00",
       "company": "Roblox",
       "first_seen": "2026-09-02T17:32:18.755742+00:00"
     },
