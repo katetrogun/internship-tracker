@@ -1,6 +1,7 @@
 {
-  "generated_at": "2026-09-14T22:50:16.540150+00:00",
+  "generated_at": "2026-09-15T01:03:07.404184+00:00",
   "errors": [
+    "Elastic (elastic): The read operation timed out",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
     "Plaid (plaid): HTTP Error 404: Not Found"
