@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-09-15T15:53:35.780801+00:00",
+  "generated_at": "2026-09-15T19:20:43.888335+00:00",
   "errors": [
-    "Robinhood (robinhood): The read operation timed out",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
     "Plaid (plaid): HTTP Error 404: Not Found"
   ],
   "postings": [
+    {
+      "id": "greenhouse:robinhood:8198142",
+      "title": "Finance and Strategy Intern (Summer 2027)",
+      "location": "Menlo Park, CA",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8198142?t=gh_src=&gh_jid=8198142",
+      "updated_at": "2026-09-15T14:24:26-04:00",
+      "company": "Robinhood",
+      "first_seen": "2026-09-15T19:20:43.888335+00:00"
+    },
     {
       "id": "greenhouse:figma:6144755004",
       "title": "Brand Design Intern (Summer 2027)",
@@ -138,7 +146,7 @@
       "title": "[Summer 2027] Product Management Intern",
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
-      "updated_at": "2026-09-15T02:32:42-04:00",
+      "updated_at": "2026-09-15T14:32:48-04:00",
       "company": "Roblox",
       "first_seen": "2026-09-02T17:32:18.755742+00:00"
     },
@@ -147,7 +155,7 @@
       "title": "Product Management Intern",
       "location": "New York, New York, USA",
       "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
-      "updated_at": "2026-09-10T10:53:42-04:00",
+      "updated_at": "2026-09-15T13:24:16-04:00",
       "company": "Datadog",
       "first_seen": "2026-08-17T14:56:30.949474+00:00"
     },
