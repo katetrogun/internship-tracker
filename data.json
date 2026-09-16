@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-09-16T10:08:58.913677+00:00",
+  "generated_at": "2026-09-16T15:04:08.048583+00:00",
   "errors": [
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
     "Plaid (plaid): HTTP Error 404: Not Found"
   ],
   "postings": [
+    {
+      "id": "greenhouse:robinhood:8207970",
+      "title": "Security Risk Management Intern (Summer 2027)",
+      "location": "Menlo Park, CA",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970",
+      "updated_at": "2026-09-16T10:59:41-04:00",
+      "company": "Robinhood",
+      "first_seen": "2026-09-16T15:04:08.048583+00:00"
+    },
     {
       "id": "greenhouse:robinhood:8198142",
       "title": "Finance and Strategy Intern (Summer 2027)",
@@ -173,7 +182,7 @@
       "title": "Federal Security Operations - SkillBridge Intern",
       "location": "Remote - USA",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5069684007",
-      "updated_at": "2026-08-19T17:21:57-04:00",
+      "updated_at": "2026-09-16T10:52:08-04:00",
       "company": "Zscaler",
       "first_seen": "2026-07-28T14:52:32.388757+00:00"
     }
