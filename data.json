@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T20:42:48.503712+00:00",
+  "generated_at": "2026-09-17T23:13:49.586842+00:00",
   "errors": [
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
@@ -175,15 +175,6 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
       "updated_at": "2026-08-18T13:17:06-04:00",
       "company": "Databricks",
-      "first_seen": "2026-07-28T14:52:32.388757+00:00"
-    },
-    {
-      "id": "greenhouse:zscaler:5069684007",
-      "title": "Federal Security Operations - SkillBridge Intern",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5069684007",
-      "updated_at": "2026-09-17T12:28:46-04:00",
-      "company": "Zscaler",
       "first_seen": "2026-07-28T14:52:32.388757+00:00"
     }
   ]
