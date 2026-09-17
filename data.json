@@ -1,6 +1,7 @@
 {
-  "generated_at": "2026-09-17T08:46:59.704373+00:00",
+  "generated_at": "2026-09-17T13:54:52.282459+00:00",
   "errors": [
+    "Figma (figma): The read operation timed out",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
     "Plaid (plaid): HTTP Error 404: Not Found"
