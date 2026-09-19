@@ -1,10 +1,6 @@
 {
-  "generated_at": "2026-09-19T14:33:46.057126+00:00",
+  "generated_at": "2026-09-19T17:34:25.644039+00:00",
   "errors": [
-    "GitLab (gitlab): <urlopen error [Errno 104] Connection reset by peer>",
-    "Flexport (flexport): <urlopen error [Errno 104] Connection reset by peer>",
-    "MongoDB (mongodb): <urlopen error [Errno 104] Connection reset by peer>",
-    "Zscaler (zscaler): <urlopen error [Errno 104] Connection reset by peer>",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
     "Plaid (plaid): HTTP Error 404: Not Found"
