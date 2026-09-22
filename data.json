@@ -1,8 +1,6 @@
 {
-  "generated_at": "2026-09-22T01:39:59.403348+00:00",
+  "generated_at": "2026-09-22T07:00:35.225749+00:00",
   "errors": [
-    "Flexport (flexport): The read operation timed out",
-    "Twilio (twilio): The read operation timed out",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
     "Plaid (plaid): HTTP Error 404: Not Found"
@@ -157,7 +155,7 @@
       "title": "[Summer 2027] Product Management Intern",
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
-      "updated_at": "2026-09-21T14:33:34-04:00",
+      "updated_at": "2026-09-22T02:33:29-04:00",
       "company": "Roblox",
       "first_seen": "2026-09-02T17:32:18.755742+00:00"
     },
