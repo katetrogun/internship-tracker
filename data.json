@@ -1,7 +1,6 @@
 {
-  "generated_at": "2026-09-24T06:54:19.710118+00:00",
+  "generated_at": "2026-09-24T12:24:01.459602+00:00",
   "errors": [
-    "Coinbase (coinbase): The read operation timed out",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
     "Plaid (plaid): HTTP Error 404: Not Found"
