@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-09-30T09:07:08.327325+00:00",
+  "generated_at": "2026-09-30T16:00:01.114931+00:00",
   "errors": [
-    "Dropbox (dropbox): The read operation timed out",
+    "Coinbase (coinbase): The read operation timed out",
+    "Reddit (reddit): The read operation timed out",
+    "Webflow (webflow): The read operation timed out",
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
