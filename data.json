@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-10-01T19:07:15.555287+00:00",
+  "generated_at": "2026-10-01T23:16:16.924814+00:00",
   "errors": [
+    "Elastic (elastic): The read operation timed out",
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
     "Plaid (plaid): HTTP Error 404: Not Found"
   ],
   "postings": [
+    {
+      "id": "greenhouse:attentive:4429880009",
+      "title": "Product Management Intern, Agentic Integrations",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/attentive/jobs/4429880009",
+      "updated_at": "2026-10-01T16:48:30-04:00",
+      "company": "Attentive",
+      "first_seen": "2026-10-01T23:16:16.924814+00:00"
+    },
     {
       "id": "greenhouse:robinhood:8207970",
       "title": "Security Risk Management Intern (Summer 2027)",
