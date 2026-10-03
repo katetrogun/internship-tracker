@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:36:34.338279+00:00",
+  "generated_at": "2026-10-03T02:47:53.294835+00:00",
   "errors": [
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
@@ -33,15 +33,6 @@
       "updated_at": "2026-09-25T13:03:21-04:00",
       "company": "Robinhood",
       "first_seen": "2026-09-15T19:20:43.888335+00:00"
-    },
-    {
-      "id": "greenhouse:figma:6144755004",
-      "title": "Brand Design Intern (Summer 2027)",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/figma/jobs/6144755004?gh_jid=6144755004",
-      "updated_at": "2026-09-14T13:36:09-04:00",
-      "company": "Figma",
-      "first_seen": "2026-09-14T19:40:18.169519+00:00"
     },
     {
       "id": "greenhouse:robinhood:8198198",
