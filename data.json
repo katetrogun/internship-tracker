@@ -1,14 +1,22 @@
 {
-  "generated_at": "2026-10-13T16:33:59.377095+00:00",
+  "generated_at": "2026-10-13T21:38:07.871772+00:00",
   "errors": [
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "HubSpot (hubspot): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
-    "Palantir (palantir): The read operation timed out",
     "Plaid (plaid): HTTP Error 404: Not Found"
   ],
   "postings": [
+    {
+      "id": "greenhouse:gusto:8257115",
+      "title": "Finance Intern (Summer 2027)",
+      "location": "New York, NY - Hybrid",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8257115",
+      "updated_at": "2026-10-13T13:13:58-04:00",
+      "company": "Gusto",
+      "first_seen": "2026-10-13T21:38:07.871772+00:00"
+    },
     {
       "id": "greenhouse:attentive:4429880009",
       "title": "Product Management Intern, Agentic Integrations",
@@ -158,7 +166,7 @@
       "title": "[Summer 2027] Product Management Intern",
       "location": "San Mateo, CA, United States",
       "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
-      "updated_at": "2026-10-13T02:36:37-04:00",
+      "updated_at": "2026-10-13T14:36:28-04:00",
       "company": "Roblox",
       "first_seen": "2026-09-02T17:32:18.755742+00:00"
     },
