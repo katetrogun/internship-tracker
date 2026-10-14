@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T10:48:33.213103+00:00",
+  "generated_at": "2026-10-14T15:36:42.499084+00:00",
   "errors": [
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
@@ -25,15 +25,6 @@
       "updated_at": "2026-10-01T16:48:30-04:00",
       "company": "Attentive",
       "first_seen": "2026-10-01T23:16:16.924814+00:00"
-    },
-    {
-      "id": "greenhouse:robinhood:8198241",
-      "title": "Fraud Operations Intern (Summer 2027)",
-      "location": "Denver, CO",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241",
-      "updated_at": "2026-09-25T13:03:21-04:00",
-      "company": "Robinhood",
-      "first_seen": "2026-09-14T14:46:13.745919+00:00"
     },
     {
       "id": "greenhouse:coinbase:8187551",
@@ -85,7 +76,7 @@
       "title": "Institutional Operations Intern",
       "location": "Hybrid - New York, NY",
       "url": "https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569",
-      "updated_at": "2026-10-13T19:48:53-04:00",
+      "updated_at": "2026-10-14T11:18:43-04:00",
       "company": "Coinbase",
       "first_seen": "2026-09-08T22:50:17.760840+00:00"
     },
