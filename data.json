@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:47:55.232729+00:00",
+  "generated_at": "2026-10-15T15:55:41.835588+00:00",
   "errors": [
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
@@ -8,6 +8,24 @@
     "Plaid (plaid): HTTP Error 404: Not Found"
   ],
   "postings": [
+    {
+      "id": "greenhouse:airbnb:8285171",
+      "title": "Strategic Finance & Analytics Intern",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/8285171?gh_jid=8285171",
+      "updated_at": "2026-10-15T11:16:59-04:00",
+      "company": "Airbnb",
+      "first_seen": "2026-10-15T15:55:41.835588+00:00"
+    },
+    {
+      "id": "greenhouse:robinhood:8198241",
+      "title": "Fraud Operations Intern (Summer 2027)",
+      "location": "Denver, CO",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241",
+      "updated_at": "2026-10-15T08:30:02-04:00",
+      "company": "Robinhood",
+      "first_seen": "2026-10-15T15:55:41.835588+00:00"
+    },
     {
       "id": "greenhouse:gusto:8257115",
       "title": "Finance Intern (Summer 2027)",
