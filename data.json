@@ -1,8 +1,6 @@
 {
-  "generated_at": "2026-10-17T00:02:22.996167+00:00",
+  "generated_at": "2026-10-17T04:43:42.579265+00:00",
   "errors": [
-    "Webflow (webflow): HTTP Error 404: Not Found",
-    "Carvana (carvana): The read operation timed out",
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "HubSpot (hubspot): HTTP Error 404: Not Found",
