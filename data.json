@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:39:26.552000+00:00",
+  "generated_at": "2026-10-22T23:45:17.268520+00:00",
   "errors": [
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
@@ -8,6 +8,15 @@
     "Plaid (plaid): HTTP Error 404: Not Found"
   ],
   "postings": [
+    {
+      "id": "greenhouse:coinbase:8175569",
+      "title": "Institutional Operations Intern",
+      "location": "Hybrid - New York, NY",
+      "url": "https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569",
+      "updated_at": "2026-10-22T18:30:08-04:00",
+      "company": "Coinbase",
+      "first_seen": "2026-10-22T23:45:17.268520+00:00"
+    },
     {
       "id": "greenhouse:airbnb:8285171",
       "title": "Strategic Finance & Analytics Intern (MBA)",
