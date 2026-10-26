@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-10-26T19:38:29.815670+00:00",
+  "generated_at": "2026-10-26T23:26:33.031528+00:00",
   "errors": [
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "HubSpot (hubspot): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
-    "Plaid (plaid): HTTP Error 404: Not Found"
+    "Plaid (plaid): HTTP Error 404: Not Found",
+    "Wealthfront (wealthfront): The read operation timed out"
   ],
   "postings": [
     {
@@ -34,15 +35,6 @@
       "updated_at": "2026-10-15T08:30:02-04:00",
       "company": "Robinhood",
       "first_seen": "2026-10-15T15:55:41.835588+00:00"
-    },
-    {
-      "id": "greenhouse:gusto:8257115",
-      "title": "Finance Intern (Summer 2027)",
-      "location": "New York, NY - Hybrid",
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8257115",
-      "updated_at": "2026-10-13T13:13:58-04:00",
-      "company": "Gusto",
-      "first_seen": "2026-10-13T21:38:07.871772+00:00"
     },
     {
       "id": "greenhouse:coinbase:8187551",
