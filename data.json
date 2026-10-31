@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-10-31T17:25:16.699864+00:00",
+  "generated_at": "2026-10-31T20:31:10.285256+00:00",
   "errors": [
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "HubSpot (hubspot): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
+    "Gopuff (gopuff): The read operation timed out",
     "Plaid (plaid): HTTP Error 404: Not Found"
   ],
   "postings": [
+    {
+      "id": "lever:palantir:bd7766c4-6aea-4b37-8d47-a8864bb9bd69",
+      "title": "Finance Operator Intern",
+      "location": "New York, NY",
+      "url": "https://jobs.lever.co/palantir/bd7766c4-6aea-4b37-8d47-a8864bb9bd69",
+      "updated_at": "2026-10-31T00:15:34.399000+00:00",
+      "company": "Palantir",
+      "first_seen": "2026-10-31T20:31:10.285256+00:00"
+    },
     {
       "id": "greenhouse:coinbase:8175569",
       "title": "Institutional Operations Intern",
