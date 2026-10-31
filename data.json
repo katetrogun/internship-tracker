@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T20:55:53.115060+00:00",
+  "generated_at": "2026-10-31T00:16:25.956461+00:00",
   "errors": [
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
@@ -13,7 +13,7 @@
       "title": "Institutional Operations Intern",
       "location": "Hybrid - New York, NY",
       "url": "https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569",
-      "updated_at": "2026-10-30T10:48:35-04:00",
+      "updated_at": "2026-10-30T19:04:20-04:00",
       "company": "Coinbase",
       "first_seen": "2026-10-22T23:45:17.268520+00:00"
     },
@@ -70,15 +70,6 @@
       "updated_at": "2026-10-30T10:56:53-04:00",
       "company": "Coinbase",
       "first_seen": "2026-09-08T22:50:17.760840+00:00"
-    },
-    {
-      "id": "greenhouse:roblox:8143981",
-      "title": "[Summer 2027] Product Management Intern",
-      "location": "San Mateo, CA, United States",
-      "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
-      "updated_at": "2026-10-30T14:42:39-04:00",
-      "company": "Roblox",
-      "first_seen": "2026-09-02T17:32:18.755742+00:00"
     },
     {
       "id": "greenhouse:databricks:6883068002",
