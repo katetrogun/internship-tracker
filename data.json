@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T17:35:29.564577+00:00",
+  "generated_at": "2026-11-06T22:29:43.574795+00:00",
   "errors": [
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
@@ -8,6 +8,15 @@
     "Plaid (plaid): HTTP Error 404: Not Found"
   ],
   "postings": [
+    {
+      "id": "greenhouse:pinterest:8334878",
+      "title": "Strategy & Operations Intern 2027 (USA)",
+      "location": "San Francisco, CA, US; Remote, CA, US",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8334878",
+      "updated_at": "2026-11-06T16:55:14-05:00",
+      "company": "Pinterest",
+      "first_seen": "2026-11-06T22:29:43.574795+00:00"
+    },
     {
       "id": "lever:palantir:bd7766c4-6aea-4b37-8d47-a8864bb9bd69",
       "title": "Finance Operator Intern",
