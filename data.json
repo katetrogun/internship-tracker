@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T21:32:49.501790+00:00",
+  "generated_at": "2026-11-11T01:35:05.696253+00:00",
   "errors": [
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
@@ -53,15 +53,6 @@
       "updated_at": "2026-09-10T13:03:58-04:00",
       "company": "Coinbase",
       "first_seen": "2026-09-10T18:35:24.909233+00:00"
-    },
-    {
-      "id": "greenhouse:coinbase:8175435",
-      "title": "Crypto Inventory Operations Intern",
-      "location": "Hybrid - New York, NY",
-      "url": "https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435",
-      "updated_at": "2026-11-10T13:03:22-05:00",
-      "company": "Coinbase",
-      "first_seen": "2026-09-09T18:08:09.451456+00:00"
     },
     {
       "id": "greenhouse:coinbase:8175453",
