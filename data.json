@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:35:37.633245+00:00",
+  "generated_at": "2026-11-13T22:16:36.729890+00:00",
   "errors": [
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
@@ -10,6 +10,15 @@
     "Clari (clari): HTTP Error 404: Not Found"
   ],
   "postings": [
+    {
+      "id": "greenhouse:robinhood:8357464",
+      "title": "Corporate Finance Intern (Summer 2027)",
+      "location": "New York, NY",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464",
+      "updated_at": "2026-11-13T16:14:12-05:00",
+      "company": "Robinhood",
+      "first_seen": "2026-11-13T22:16:36.729890+00:00"
+    },
     {
       "id": "greenhouse:pinterest:8214783",
       "title": "Sales Analytics Intern 2027 (USA)",
@@ -47,15 +56,6 @@
       "first_seen": "2026-10-22T23:45:17.268520+00:00"
     },
     {
-      "id": "greenhouse:robinhood:8198241",
-      "title": "Fraud Operations Intern (Summer 2027)",
-      "location": "Denver, CO",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241",
-      "updated_at": "2026-10-15T08:30:02-04:00",
-      "company": "Robinhood",
-      "first_seen": "2026-10-15T15:55:41.835588+00:00"
-    },
-    {
       "id": "greenhouse:coinbase:8187551",
       "title": "Sales Intern",
       "location": "Hybrid - New York, NY",
@@ -87,7 +87,7 @@
       "title": "Product Management Intern (Summer 2027)",
       "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
-      "updated_at": "2026-09-23T16:11:21-04:00",
+      "updated_at": "2026-11-13T15:13:15-05:00",
       "company": "Databricks",
       "first_seen": "2026-07-28T14:52:32.388757+00:00"
     }
