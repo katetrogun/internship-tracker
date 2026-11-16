@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-11-15T20:00:53.994970+00:00",
+  "generated_at": "2026-11-16T00:03:49.911065+00:00",
   "errors": [
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Iterable (iterable): HTTP Error 404: Not Found",
     "HubSpot (hubspot): HTTP Error 404: Not Found",
     "Netflix (netflix): HTTP Error 404: Not Found",
+    "Gopuff (gopuff): The read operation timed out",
     "Plaid (plaid): HTTP Error 404: Not Found",
     "Clari (clari): HTTP Error 404: Not Found"
   ],
