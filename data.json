@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-16T06:54:16.354758+00:00",
+  "generated_at": "2026-11-16T16:35:40.204800+00:00",
   "errors": [
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Iterable (iterable): HTTP Error 404: Not Found",
     "HubSpot (hubspot): HTTP Error 404: Not Found",
-    "Netflix (netflix): The read operation timed out",
+    "Netflix (netflix): HTTP Error 404: Not Found",
     "Plaid (plaid): HTTP Error 404: Not Found",
     "Clari (clari): HTTP Error 404: Not Found"
   ],
@@ -87,7 +87,7 @@
       "title": "Product Management Intern (Summer 2027)",
       "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
-      "updated_at": "2026-11-13T15:13:15-05:00",
+      "updated_at": "2026-11-16T09:15:59-05:00",
       "company": "Databricks",
       "first_seen": "2026-07-28T14:52:32.388757+00:00"
     }
