@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-23T10:57:25.427156+00:00",
+  "generated_at": "2026-11-23T22:25:06.615289+00:00",
   "errors": [
     "Amplitude (amplitude): HTTP Error 404: Not Found",
     "Marqeta (marqeta): HTTP Error 404: Not Found",
     "Iterable (iterable): HTTP Error 404: Not Found",
     "HubSpot (hubspot): HTTP Error 404: Not Found",
-    "Netflix (netflix): The read operation timed out",
+    "Netflix (netflix): HTTP Error 404: Not Found",
     "Plaid (plaid): HTTP Error 404: Not Found",
     "Clari (clari): HTTP Error 404: Not Found"
   ],
@@ -15,7 +15,7 @@
       "title": "2027 - Finance Intern, San Francisco",
       "location": "San Francisco",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8346144",
-      "updated_at": "2026-11-20T10:36:53-05:00",
+      "updated_at": "2026-11-23T09:29:00-05:00",
       "company": "MongoDB",
       "first_seen": "2026-11-20T18:54:21.909740+00:00"
     },
